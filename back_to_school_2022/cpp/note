@@ -1,0 +1,1 @@
+1. echo $? -> print return value of last run main function
